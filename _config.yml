@@ -12,6 +12,11 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
 
+domain: desktop-c9i4nqf.github.io
+url: https://desktop-c9i4nqf.github.io
+baseurl: /personal-blog/
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
