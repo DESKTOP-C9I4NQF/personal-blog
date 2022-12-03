@@ -8,7 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 domain: vicktor1.github.io
 url: https://vicktor1.github.io
-baseurl: /personal-blog/
+baseurl: /blogger/
 
 github_username: vicktor1
 plugins:
