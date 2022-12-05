@@ -10,7 +10,6 @@ domain: blog.fourwalls.shop
 url: https://blog.fourwalls.shop
 baseurl: /
 
-github_username: vicktor1
 plugins:
   - jekyll-feed
 
