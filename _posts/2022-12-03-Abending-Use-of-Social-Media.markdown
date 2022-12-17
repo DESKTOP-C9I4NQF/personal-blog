@@ -21,3 +21,4 @@ Secondly, you shouldn't logged in to any accounts and also store everything loca
    - Invest above time in geting rich and getting friends, your advise is not important yet so don't waste your time. also Invest your time in making your body health.
 
    - rather than syncing devices, store things locally use **Firefox Profile** to store your bookmarks, passwords, addons, history etc in single folder and just transfer Profiles locally to migrate to different devices.
+
